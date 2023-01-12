@@ -7,7 +7,7 @@
 Команда разработки:
 - :white_check_mark: [Ren4ik92 (в роли Python-разработчика - разработчик 1)](https://github.com/Ren4ik92)
 - :white_check_mark: [MrFenX1 (в роли Python-разработчика Тимлид - разработчик 2)](https://github.com/MrFenX1)
-- :white_check_mark: [ (в роли Python-разработчика - разработчик 3)]
+- :white_check_mark: [MrKarlkarlsn (в роли Python-разработчика - разработчик 3)(https://github.com/MrKarlkarlsn)]
 
 Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 
